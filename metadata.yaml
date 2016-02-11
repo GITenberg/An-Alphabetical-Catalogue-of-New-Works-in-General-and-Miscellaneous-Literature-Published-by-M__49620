@@ -1,0 +1,22 @@
+_repo: An-Alphabetical-Catalogue-of-New-Works-in-General-and-Miscellaneous-Literature-Published-by-M__49620
+creator:
+  author:
+    agent_name: Longman, Brown, Green, and Longmans
+    gutenberg_agent_id: '45445'
+    url: http://www.gutenberg.org/2009/agents/45445
+description: ''
+gutenberg_issued: '2015-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcsh 'Longman, Brown, Green, and Longmans -- Catalogs'
+title: An Alphabetical Catalogue of New Works in General and Miscellaneous Literature,
+  Published by Messrs. Longman, Brown, Green, and Longmans, Paternoster Row, London
+url: http://www.gutenberg.org/ebooks/49620
