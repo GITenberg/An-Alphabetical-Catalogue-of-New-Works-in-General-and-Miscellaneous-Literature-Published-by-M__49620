@@ -1,10 +1,16 @@
 _repo: An-Alphabetical-Catalogue-of-New-Works-in-General-and-Miscellaneous-Literature-Published-by-M__49620
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49620-h/images/cover.jpg
 creator:
   author:
     agent_name: Longman, Brown, Green, and Longmans
     gutenberg_agent_id: '45445'
     url: http://www.gutenberg.org/2009/agents/45445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49620#An-Alphabetical-Catalogue-of-New-Works-in-General-and-Miscellaneous-Literature-Published-by-M_
 gutenberg_issued: '2015-08-05'
 gutenberg_type: Text
 identifiers:
